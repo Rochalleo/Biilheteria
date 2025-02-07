@@ -1,0 +1,5 @@
+# Definindo a linguagem principal para arquivos específicos
+*.js linguist-language=JavaScript
+
+# Forçando a linguagem principal do repositório
+*.md linguist-documentation=true
